@@ -13,6 +13,7 @@
 # - graph of mpg performance vs. horsepoer for predicted value and mtcars data
 
 library(shiny)
+library(ggplot2)
 
 # Define UI for application that draws a histogram
 shinyUI(pageWithSidebar(
