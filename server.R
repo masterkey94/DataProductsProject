@@ -14,7 +14,6 @@
 
 # Load needed libraries
 library(shiny)
-library(caret)
 library(ggplot2)
 
 data(mtcars)
